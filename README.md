@@ -1,2 +1,2 @@
 # Python-APIs
-Getting data from several free APIs Online
+Getting data from spotify using the spotify API
